@@ -14,14 +14,12 @@ public class IteractScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Mouse0))
+        if (Input.GetKeyDown(KeyCode.E))
         {
-            Debug.Log("Mouse Clicked");
             Ray ray = new Ray(transform.position, transform.forward);
             RaycastHit hit;
             if (Physics.Raycast(ray, out hit, distance))
             {
-                Debug.Log("Ray Sent");
                 if (hit.collider.CompareTag("Door"))
                 {
                     hit.collider.gameObject.GetComponent<OpenDoor>().ChangeDoorState();
@@ -30,4 +28,6 @@ public class IteractScript : MonoBehaviour
         }
 
     }
+
+    
 }

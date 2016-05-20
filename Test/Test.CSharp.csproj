@@ -69,6 +69,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CloseScene.cs" />
+    <Compile Include="Assets\OpenScene.cs" />
     <Compile Include="Assets\Scripts\AnimalHealthScript.cs" />
     <Compile Include="Assets\Scripts\BodyHit.cs" />
     <Compile Include="Assets\Scripts\GUICH.cs" />

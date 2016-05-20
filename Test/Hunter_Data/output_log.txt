@@ -1,0 +1,64 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA GeForce G210  (ID=0xa60)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.097 seconds
+Platform assembly: C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\ProjectsTest\UnityGame\Test\Hunter_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 60Hz; virtual: 2960x1151 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.417771 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1b44 -> priority: 1 
+  Thread -> id: 28e0 -> priority: 1 
+Ray Sent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Body Hited
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Object Hited
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ray Sent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Body Hited
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Object Hited
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Object Destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

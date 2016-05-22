@@ -45,12 +45,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GetIntoCar.cs" />
      <Compile Include="Assets\Scripts\AnimalHealthScript.cs" />
      <Compile Include="Assets\Scripts\AnimalWalk.cs" />
      <Compile Include="Assets\Scripts\BodyHit.cs" />
+     <Compile Include="Assets\Scripts\CameraChangeScript.cs" />
      <Compile Include="Assets\Scripts\CloseScene.cs" />
      <Compile Include="Assets\Scripts\GUICH.cs" />
+     <Compile Include="Assets\Scripts\GetIntoCar.cs" />
      <Compile Include="Assets\Scripts\IteractScript.cs" />
      <Compile Include="Assets\Scripts\OpenDoor.cs" />
      <Compile Include="Assets\Scripts\OpenScene.cs" />

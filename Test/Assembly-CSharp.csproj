@@ -45,19 +45,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\AnimalHealthScript.cs" />
-     <Compile Include="Assets\BodyHit.cs" />
-     <Compile Include="Assets\GUICH.cs" />
-     <Compile Include="Assets\IteractScript.cs" />
-     <Compile Include="Assets\OpenDoor.cs" />
-     <Compile Include="Assets\Popup.cs" />
-     <Compile Include="Assets\RevolverShootAnimation.cs" />
-     <Compile Include="Assets\ShootScript.cs" />
+     <Compile Include="Assets\GetIntoCar.cs" />
+     <Compile Include="Assets\Scripts\AnimalHealthScript.cs" />
+     <Compile Include="Assets\Scripts\AnimalWalk.cs" />
+     <Compile Include="Assets\Scripts\BodyHit.cs" />
+     <Compile Include="Assets\Scripts\CloseScene.cs" />
+     <Compile Include="Assets\Scripts\GUICH.cs" />
+     <Compile Include="Assets\Scripts\IteractScript.cs" />
+     <Compile Include="Assets\Scripts\OpenDoor.cs" />
+     <Compile Include="Assets\Scripts\OpenScene.cs" />
+     <Compile Include="Assets\Scripts\Popup.cs" />
+     <Compile Include="Assets\Scripts\RevolverShootAnimation.cs" />
+     <Compile Include="Assets\Scripts\ShootScript.cs" />
+     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
+     <None Include="Assets\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
+     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+     <None Include="Assets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Horse\SoftAlpha.shader" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />

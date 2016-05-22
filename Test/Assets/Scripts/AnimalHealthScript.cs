@@ -23,6 +23,7 @@ public class AnimalHealthScript : MonoBehaviour
     public void Hited(int hitAmount)
     {
         Debug.Log("Object Hited");
+        gameObject.GetComponent<AnimalWalk>().OnHited();
         Health -= hitAmount;
     }
 }
